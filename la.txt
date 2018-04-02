@@ -1,0 +1,978 @@
+﻿Tellus (planeta)
+
+Salire ad: navigationem, quaerere 
+
+Vide etiam paginam discretivam: Terra 
+Tellus, Terra  
+ 
+Repertum 
+Reperta a 
+- 
+Reperta anno 
+nota antiquis 
+Proprietates orbitales 
+Intervallum a sole (ua) 
+1 ua 
+Axis semimaior 
+149 597 887 km 
+Perihelion 
+147 098 074 km 
+Aphelion 
+152 097 701 km 
+Eccentricitas 
+0.016 710 22 
+Periodus orbitalis 
+365.256 96 diebus 
+Inclinatio orbitalis 
+0.000 05° (epochi 2000) 
+Satellites 
+1 
+Satellitis nomen 
+Luna 
+Proprietates physicales 
+Media diametrus 
+12 745.591 km 
+Area 
+510 065 284.702 km2 
+Massa 
+5.9736 × 1024 kg 
+Densitas 
+5.515 g/cm3 
+Gravitas 
+9.8 m/s2 
+Celeritas fugitiva 
+11.186 km/s 
+Periodus rotationis 
+23 h 56 min 
+Inclinatio axialis 
+23.44° 
+Albedo 
+0.367 
+Temperatura 
+min 
+med 
+max 
+200 K 
+288 K 
+330 K 
+Proprietates atmosphericae 
+Pressio atmosphaerica 
+kPa 
+Nitrogenium 
+78.01% 
+Oxygenium 
+20.95 % 
+Argon 
+0.93 % 
+Carbonii dioxidum 
+0.04% 
+Tellus (-ūris, f.), seu Terra, est tertius planeta a Sole stella sua, densissimus planeta, quintus a maximo ex octo Systematis Solaris planetis, et maximus ex quattuor Systematis Solaris planetis terrestribus. Ea aliquando appellatur Mundus, Planeta Caeruleus,[1] Tellus/Terra Mater, et adeo in variis linguis ipso nomine Latino Terra. 
+Domus milliardarum specierum, hominibus non exceptis, Tellus nunc est solus universi locus ubi vitam esse scimus. Planeta abhinc annorum 4.54 milia millionum formatus est, et in eius superficie abhinc milia millionum annorum apparuit vita. Biosphaera Telluris atmosphaeram aliosque abioticos planetae status magnopere mutavit, auctum organismorum aerobiorum et formationem tabulati ozoniferi sinens, quod, una cum magnetico Telluris campo, noxiam Solis radiationem occludit, vitam super terram exsistere sinens. Geophysicae Telluris proprietates, et geologica planetae historia et orbis, vitam hoc aevo persistere siverunt. Planeta vitam sustenturus ire putatur tantum 500 milliones annorum. 
+ 
+
+Apex Montis Chimborazi in Aequatoria est locus in superficie Telluris qui maxime a media parte distat.[2]
+Sicut omnes planetae, Tellus vi et gravitate formam globi habet; cum autem circum axem suum rotetur, in polis aliquatenus plana est. Inde circumscriptio lineae aequinoctialis 40 075.004 chiliometrorum longa 134.336 chiliometra longior est circumscriptione polari (39  940.638 km), quae sunt 0.34 centesimae. (Diametri ergo sunt 12 756.270 km, sive 12 713.500 km.) Telluris autem forma non exacte est ellipsoidica: ea, geoides nominata, nonnullis locis ±100 metra a forma ellipsoidae differt. Cum Tellus globus non sit, qui altissimus sit mons Telluris dici non potest, nam altitudinem maximam super maris aequor Mons Everest (Himalaia) tenet; maxime autem a medio Telluris distat apex montis igniferi Chimborazi (Aequatoria), fundamentum et summum montis Maunae Keae (in Havaiis) maxime distant. 
+Signa Telluri data Medio Aevo sunt  et 
+⊕ {\displaystyle \oplus } 
+. 
+Index [celare] 
+1
+Quomodo Tellus structa sit
+2
+Atmosphaera
+3
+Temperatura
+4
+Unde aqua in Tellurem venerit
+5
+Motus cosmici
+6
+Luna
+6.1
+Rotatio
+7
+Aestus
+8
+De vita deque caelo
+8.1
+Origo vitae
+8.2
+Zonae
+8.2.1
+Zonae polares
+8.2.2
+Zonae temperatae
+8.2.3
+Zonae subtropicae
+8.2.4
+Zona tropica
+8.3
+De temporibus anni
+8.4
+Quod homo efficit
+9
+Nexus interni
+10
+Notae
+11
+Bibliographia
+12
+Nexus externi
+Quomodo Tellus structa sit[recensere | fontem recensere]
+Tellus est maxima in numero planetarum saxis structorum nostri systematis solaris. Ceteri autem planetae ita structi sunt minores, velut (Mercurius, Venus, Mars, vel Planetoides); planetae maiores (sicut Iuppiter) in primis e gas constant. 
+Tellus orta est abhinc annorum circa 4550 milliones, et veterrimi Telluris lapides, zircon, 4385 milliones annorum habent. Intra 100 milliones annorum tot meteoritae in Tellurem cadebant elementaque radiantia tantum calorem efficiebant, ut Tellus recens maxima e parte liquesceret. (Fortasse etiam alter planeta Martis magnitudine cum Tellure collidens hoc effecit simulque Lunam genuit.) In Tellure, liquida elementa vi et gravitate dirempta sunt ut gravissima, praecipue ferrum, medium locum tenerent, leviora autem, praecipue oxygenium, silicium, aluminium, sphaeram extremam fingerent. Quibus ex elementis mineralia silicium continentia orta sunt, quae corticem Telluris fingunt. Cum Tellus in primis e ferro, niccolo, silicio, oxygenio, aluminio exstet, densitas Telluris est maior, nempe 5.515 g/cm³. 
+Sicut plerique planetarum Telluris similium maiorumque satellitum Telluris ipsius superficies duas in partis seu hemisphaeria divisa est: hemisphaerium terrarum atque hemisphaerium aquarum. In hoc aevo, maria 70.7 centesimae superficiei tegunt. Terrae (29.3%) in primis septem continentes faciunt: Asiam (maiorem) et Europam (melius in unam coniungendas, scilicet in Eurasiam), Africam, Americam septentrionalem, Americam meridionalem, Antarcticam, Australiam. Minores terrae positione non continentes, sed insulae vocantur. Maria sunt: tres oceani (Pacificus, Atlanticus, Indicus), et complura maria minora, sicut Mare Internum et Oceanus Arcticus. In Fossa Mariana, oceanus est altissimus, –11 034 metrorum infra maris aequor. 
+Mensurae seismicae Tellurem tribus e sphaeris constare patefecerunt: e Telluris nucleo, amictu, cortice. Hae sphaerae planis discontinuitatis seismicis in vices terminantur. Cortex parsque superior amictus lithosphaeram faciunt. Inter 50 ac 100 chiliometra crassa est divisaque in laminas tectonicas, et magnas et parvas. Laminae maiores plerumque continentes aequiperant praeter laminam Pacificam. Hae laminae in saxis partim liquefactis amictus superioris, in asthenosphaera 100 ad 150 chiliometra crassa, moventur. Nuclei Telluris pars exterior liquida est calore plus quam 4000 K, pars interior vi et gravitate firma est. 
+Atmosphaera[recensere | fontem recensere]
+Atmosphaera Telluris circiter 600 chiliometra altitudinis est. Massa atmosphaerae 5.13×1018 chiliogrammatorum est, id est decima centesima millesima pars massae Telluris. Pressio aëris in aequori altitudine 1013 hPa est, densitas aëris 1.293 kg/m3. In aequori altitudine aër in primis e 78 centesimis nitrogenii, 21 centesimis oxygenii, 1 centesimis argonis exstat. Vapor aquae (0%-5%) etiam in aëre est et tempestates efficit. Praeterea multa et alia gasa minima quidem parte aëri insunt quae tamen caelo maioris momenti sint, e.g. carbonii dioxidum vel methanum. 
+Cum atmosphaera Telluris lucis Solis partem caeruleam brevius undatam quinquiens magis dispergat quam partem rubram longius undatam, caelum nobis caeruleum videtur. Aequor autem marium atque oceanorum e spatio cosmico caeruleum videtur cum aqua ipsa lucem rubram magis absorbat. Inde Tellus etiam planeta caeruleus vocatur. 
+Temperatura[recensere | fontem recensere]
+Status energeticus Telluris maxima e parte de insolatione (de copia radiorum solis) deque reflexione vel superficiei vel atmosphaerae, ergo de statu radiationis, dependit. Cetera enim tantum 0.02 centesimae efficiunt; etiam periodus solis macularum plus efficit. 
+Fere 0.013 centesimae e radionucleoidibus in Tellure dissolventibus oriuntur, 0.007 centesimae homo efficit materiem fossilem urens vel nuclea atomorum findens, 0.002 centesimae ex attritu aestuum fiunt. 
+Albedo Telluris plus minusve 0.367 est, cuius maiorem partem nubes excitant. Inde temperatura universa est effectiva? 246 K (id est, -27 graduum Celsianorum). Medius autem calor humi est 288 K (+15 graduum Celsianorum) effectus tepidarii causa, quod imprimis vapor aquae ac dioxidum carbonii efficiunt. Extremae temperaturae in Tellure sunt hae mensurae: -89.6 gradus Celsianos (21 Iulii 1983 in statione Vostok nominata in terra Antarctica) et +53 gradus Celsianos in Valle Mortis in Civitatibus Foederatis). 
+Calore medio 15 graduum Celsianorum soni velocitas in aequori altitudine est circiter 340 m/s. 
+Unde aqua in Tellurem venerit[recensere | fontem recensere]
+Unde aqua in Tellurem venerit, praecipue autem cur plus aquae in Tellure sit quam in ceteris planetis Telluris similibus, adhuc non satis liquet. Pars aquae e magmate evaporavisse et inde e medio Telluris orta esse putatur. Quod tamen tantam copiam aquae explanare nequit. Aliae partes e stellis crinitis, ex obiectis ultra Neptunum revolventibus, ex asteroidibus in Tellurem ceciderint. Isotoporum ratio deuterii pro protio (D/H ratio) in maribus mensa magis aequat ei in chondritis carbonicis inventae (quae reliquiae asteroidum in Tellurem casorum sciuntur), sed minus ei in stellis crinitis vel obiectis ultra Neptunum revolventibus exploratae. 
+Motus cosmici[recensere | fontem recensere]
+Rationes intervallorum planetarum interiorum.
+
+Tellus/Luna 
+Venus 
+Mercurius 
+Sol (normam respiciens) 
+Tellus, una cum Systemate Solare, est in Via Lactea galaxia sita, se circa 28 000 annorum lucis a media galaxia movens. Ea nunc est circa viginta annos lucis supra planum aequatoriale in spirali Orionis bracchio. 
+Medium spatium mediae Telluris ac medii Solis circiter 149 597 870 km est. Quod spatium primo unitatem astronomicam definiebat, qua unitate astronomi in primis ad intervalla intra systema solare metienda utuntur. 
+Locus orbitae Telluris qui Soli proximus est, perihelium vocatur et 0.983 ua a Sole distat, locus remotissimus aphelium vocatus 1.017 ua distat. Orbita Telluris igitur ellipsis est excentritatis 0.0167. Spatium inter Solem et Tellurem autem non constans est, sed altero quoque anno 10 cm augetur. 
+Revolutio Telluris circum Solem nunc 365 d 6 h 9 min 9.54 s durat, quae periodus annus sideralis vocatur. Planities orbitae Telluris linea ecliptica appellatur. 
+Luna[recensere | fontem recensere]
+Circa Tellurem movetur Luna, cuius ratio massarum ac Telluris tanta est, ut Tellus et Luna nonnumquam systema binorum planetarum vocetur pro planeta ac satellite. Ratio massarum modo in systemate Plutonis et Charontis maior est. 
+ 
+
+Tellus de Luna visa.
+Quod Luna tanta est, declinatio lineae eclipticae valde stabilis est ut condiciones vitae in Tellure bene maneant. 
+
+Rationes magnitudinum et spatii inter Tellurem Lunamque.
+ 
+Tellus 
+Luna 
+Rotatio[recensere | fontem recensere]
+Tellus in 23 horis 56 minutis 4.09 secundis circum axim suum rotatur, quod tempus dies sideralis vocatur. Cum autem Telluris orbita circulum non sit, locus Solis die subsequenti non idem est atque die proximo. Spatium temporis inter summos soles, id est inter meridies subsequentis inde paulum longius est die siderali: id spatium dies solaris dicitur qui positione 24 horas continet. 
+ 
+
+Tellus ut rotans visa.
+Cum axis rotationis Telluris (hoc in aevo) 23.44° a linea ecliptica declinet, utraque hemisphaera (septentrionalis ac meridionalis) diversis orbitae locis diverse illustratur, unde tempora anni caelum suum efficientia oriuntur. 
+Aestus[recensere | fontem recensere]
+Luna in Tellure non solum in maribus, sed etiam in terris (circa semimetrum) et in Telluris amictu aestus efficit, qui rotationem Telluris circum se ipsam paulatim frenant ut dies circiter 20 µs per annum longiores fiant. Ex energia rotationis calor fit, impulsus rotationis a Tellure in Lunam transfertur ut Lunae orbita altero quoque anno 4 centimetra a Tellure removeatur. Mensurae spatii inter Lunam et Tellurem laser factae ex anno 1995 hoc effectum iam diu suspicatum demonstraverunt. 
+Alia argumenta haec sunt: in curalii fossilibus anuli crescendi inveniuntur, qui omni die unum vestigium relinquebant. Item annorum singulorum vestigia inveniuntur. Inde numerum dierum anni pristini linquunt et annus constans ex illo numero aevo geologico auctus esse habetur. 
+Etiam Solis defectiones litteris mandatae demonstrant diem longiorem factum esse, nam si dies aequus mansisset, defectiones aliis locis visae essent. 
+Olim Tellus et Luna rotationem coniunctam habeant, Tellus quoque Lunae unam atque eandem partem praebeat, dies futurus quadraginta septem dies hodiernos contineat, nisi antea Sol se expandens hoc systema disturbet. 
+De vita deque caelo[recensere | fontem recensere]
+Origo vitae[recensere | fontem recensere]
+Adhuc sola in Tellure vita probatur. Tamen vita iam geologice paucis annis post frequentissimos asteroidum casus in Telluris primordiis coepisse videtur. In saxis sedimentis adhuc annorum ante 3850 millonem? genitis, quae in regione Isua (in Groenlandia) inventa sunt, rationes isotoporum carbonii (C-12 / C-13) a norma discrepant, forsan vitae causa. In saxis ante 3500 milliones genitis Warrawoonae (in Australia) nonnulli viri docti cyanobacteria fossilia inventa esse existimant. Certa autem sunt bacteria fossilia e formatione Gunflint (in Ontario / Canada) ante 1900 milliones genita. 
+Evolutio et chemica et biologica cum historia caelorum arte coniuncta est, nam vita quidem de condicionibus datis dependit, sed ipsa Tellurem mutat. In primis photosynthesis satorum atmosphaerae oxygenium dabat ut nunc atmosphaera res oxydans sit. Etiam Telluris albedo satîs terras tegentibus mutata est. 
+Vetustiores sententias de Telluris vitaeque origine legere potes (e. g.): 
+in libro Genesis nominato (capitibus 1 et 2), et in Psalmo 104 (enumeratione Graeca 103)
+in Ovidii Metamorphoseon, libro I (versus 5–88).
+Zonae[recensere | fontem recensere]
+Tellus hodie non in quinque, ut e.g. apud Ovidium legimus, sed in septem zonas dividitur: 
+in duas zonas frigidas sive polares (a polis ad circulos polaris / 66.56°)
+in duas zonas temperatas (inter 66.56° et 40°)
+in duas zonas subtropicas (inter 40° et 23.44° / circulos Solis vertentis (et solstitialem et brumalem)
+in zonamque tropicam (inter circulos et solstitialem et brumalem).
+Zonae polares[recensere | fontem recensere]
+Zona polaris borealis arctis vocatur, maiore e parte mare est. Zona polaris australis antarctis vocatur, maxima e parte continens Antarctica est. Propria harum zonarum sunt multa nix vel glacies, frigus, sed etiam dies vel nox semestris. Videntur etiam aurorae boreales. 
+Zonae temperatae[recensere | fontem recensere]
+Zonae temperatae a circulis polaribus ad 40° latitudinis patent. In zonis temperatis, tempora anni (ver, aestas, autumnus, hiemps) manifeste dignoscuntur, et spatium diei noctisque in cursu anni valde variatur. Arbores imprimis sunt coniferae vel frondeae quae frondem autumno amittunt. 
+Zonae subtropicae[recensere | fontem recensere]
+Hae inter 40° latitudinis et circulum solstitialem (Cancri) vel circulum brumalem (Capricorni) sitae sunt. Spatium diei noctisque paulum tantum variatur. Hae regiones dignoscuntur: aridae, hieme umidae, aestate umidae, semper umidae. In aliis regionibus, e.g. circum mare Internum, multa et varia genera satorum crescunt, in aliis parca, in desertis sicut Sahara nulla. 
+Zona tropica[recensere | fontem recensere]
+Haec zona ab utraque parte circuli aequinoctialis ad circulos solstitialem et brumalem spectat. In zona tropica, et dies et noctes semper duodecim horas manent. Sol autem partim per meridiem, partim medium per caelum, partim per septentrionalem cursum diei facit, unde verbum tropicae ortum est (Graece: tropos 'versio'). 
+Dignoscuntur regiones tropicae semper umidae et aliquotiens umidae. Illis non sunt tempora anni; his autem tempus aridum et tempus pluviosum. His proprii sunt campi ampli ubi herbae graminaque varia crescunt, qui campi in Africa savanna, in America Meridionali pantanal, vocantur. Illis regionibus semper umidis propriae sunt silvae incaeduae, quae etiam silvae pluviales tropicae vocantur, quaeque generibus et arborum et florum et bestiarum abundant. 
+De temporibus anni[recensere | fontem recensere]
+Cum axis Telluris ad lineam eclipticam 23.44° inclinatus sit, tempora anni sunt varia, in primis in zonis temperatis. Haec enim inclinatio efficit ut dies vere ac aestate longiores sint noctibus itaque tum terrae mariaque plus radiorum solis accipiant. Dies praecipui sunt: 
+21 Decembris: Solstitium (brumale). Sol in tropico Capricorni (brumali) iter per caeli verticem facit. In hemisphaera septentrionali, dies brevissimus adest et hiems incipit; in hemisphaera australi, dies longissimus est et aestas incipit. In polo gelido, media nox adest; in polo australi, meridies. 
+20 Martii: Aequinoctium (vernale). Ubique terrarum dies et nox duodecim horas manent. In septentrionalibus, ver incipit; in australi, autumnus. Sol in linea aequinoctiali per caeli verticem iter diei facit. 
+21 Iunii: Solstitium (aestivum). Sol in circulo Cancri (solstitiali) iter per caeli verticem facit, diem longissimum et aestatem incipiens in septentrionalibus, diem brevissimum et hiemem incipiens in australi. 
+22 Septembris: Aequinoctium (autumnale). Sol in linea aequinoctiali iter per caeli verticem facit. In septentrionalibus incipit autumnus; in australi ver. 
+Quod homo efficit[recensere | fontem recensere]
+Homines priores erant pauci, et venationibus collectionibusque vescebantur. Rebus novis neolithicis factis agricultura et pecuaria coepere (in "luna dimidia frugifera" in millennio undecimo, in Sina millennio octavo, et in terra nunc Mexicana millennio sexto a.C.n.). Inde segetes plantaeque sata naturalia depulere. Inductione industriarum (ab saeculo undevicensimo) non solum areae amplissimae mutatae sunt, sed etiam pollutio aquarum, humorum, aeris crevit. Gasa sicut carbonii dioxidum Tellurem calefacere itaque caelum mundanum mutare videntur. Numerus autem hominum crescere nondum desiit. Anno 1920, 1800 milliones? hominum Tellurem incolebant ; anno 2005, 6400 milliones ; anno 2050, plures quam 9000 milliones fore divinantur. Homo iam effecturus est ut paene totidem genera bestiarum satorumque exstinguantur atque in fine aevi cretacei exstincta sunt. 
+ 
+
+Tellus interdiu.
+ 
+
+Tellus noctu.
+Nexus interni
+Geologia
+Insulae Telluris
+Lacus
+Continens
+Montes Telluris
+Mundus
+Mythus Telluris planae
+Periodus Telluris
+Tonitruum
+Dies Telluris
+Notae[recensere | fontem recensere]
+Jump up 
+↑ Drinkwater, Mark; Kerr, Yann; Font, Jordi; Berger, Michael (Februario 2009). "Exploring the Water Cycle of the ‘Blue Planet’: The Soil Moisture and Ocean Salinity (SMOS) mission". ESA Bulletin (European Space Agency) (137): 6–15. 
+Jump up 
+↑ "The 'Highest' Spot on Earth," apud www.npr.org. 
+Bibliographia[recensere | fontem recensere]
+ 
+
+Primum "ortus Telluris" photographema ab astronautis factum, ex astronavi Apolline 8.
+Allen, Clabon Walter, et Arthur N. Cox. 2000. Allen's Astrophysical Quantities. Springer. ISBN 0387987460.
+Butler, R. F. 1992. Paleomagnetism: Magnetic Domains to Geologic Terranes. Blackwell Scientific Publications. ISBN 0-86542-070-X.
+The Cambridge Atlas of Astronomy. 1985. Cantabrigiae: Cambridge University Press & Newnes Books.
+Campbell, W. H. 2003. Introduction to Geomagnetic Fields. Novi Eboraci: Cambridge University Press. ISBN 0-521-82206-8.
+Canup, R., et E. Asphaug. 2001. "Origin of the Moon in a Giant Impact near the End of the Earth's Formation." Nature 412:708–712.
+Comins, Neil F. 2001. Discovering the Essential Universe. Editio 2a. W. H. Freeman. ISBN 0-7167-5804-0.
+Dalrymple, G .B. 1991. The Age of the Earth. Stanford University Press. ISBN 0-8047-1569-6.
+Dalrymple, G. B. 2001. "The Age of the Earth in the Twentieth Century: A Problem (Mostly) Solved." In Geological Society Special Publications 190:205–221.
+Dole, S. H. 1970. Habitable Planets for Man. Editio 2a. American Elsevier Publishing Co. ISBN 0-444-00092-5.
+Doolittle, W. F. 2000. "Uprooting the Tree of Life." Scientific American 282(6):90–95. 
+Drinkwater, Mark; Kerr, Yann; Font, Jordi; Berger, Michael (February 2009). "Exploring the Water Cycle of the ‘Blue Planet’: The Soil Moisture and Ocean Salinity (SMOS) mission". ESA Bulletin (European Space Agency) (137): 6–15
+Duff, D. 1993. Holmes' Principles of Physical Geology. Editio 4a. Chapman & Hall. ISBN 0-412-40320-X.
+Dutch, S. I. 2002. "Religion as Belief versus Religion as Fact." Journal of Geoscience Education 50(2):137-144.
+Edis, T. 2003. A World Designed by God: Science and Creationism in Contemporary Islam. Amherst: Prometheus. ISBN 1-59102-064-6.
+Emilliani, Cesare. 1992. Planet Earth: Cosmology, Geology, and the Evolution of Live and Environment. Cantabrigiae: Cambridge University Press. ISBN 0-521-40949-7.
+Fowler, C. M. R. 1990. The Solid Earth: An Introduction to Global Geophysics. Cantabrigiae: Cambridge University Press. ISBN 0-521-38590-3.
+Gould, Stephen Jay. 1994. "The Evolution of Life on Earth." Scientific American.
+Harrison, R. M., et R. E. Hester. 2002. Causes and Environmental Implications of Increased UV-B Radiation. Royal Society of Chemistry. ISBN 0-85404-265-2.
+Hillebrand, H.. 2004. "On the Generality of the Latitudinal Gradient." American Naturalist 163(2):192–211.
+Kasting, J. F. 1988. "Runaway and Moist Greenhouse Atmospheres and the Evolution of Earth and Venus." Icarus 74:472–494.
+Kelley, Kevin W., ed 1989. Der Heimatplanet. Frankfurt am Main: Zweitausendeins. ISBN 3-86150-029-9.
+Kirschvink, J. L. 1992. "Late Proterozoic Low-Latitude Global Glaciation: The Snowball Earth." In The Proterozoic Biosphere: A Multidisciplinary Study, ed J. W. Schopf, C. Klein, et D. Des Maris, 51–52. Cambridge University Press. ISBN 0-521-36615-1.
+Laskar, J., P. Robutel, F. Joutel, M. Gastineau, A. C. M. Correia, et B. Levrard, B.. 2004. "A Long-Term Numerical Solution for the Insulation Quantities of the Earth." Astronomy and Astrophysics 428:261–285.
+Liu, S. C., et T. M. Donahue. 1974. "The Aeronomy of Hydrogen in the Atmosphere of the Earth." Journal of Atmospheric Sciences 31(4):1118-1136.
+Liungman, C. G. 2004. Symbols: Encyclopedia of Western Signs and Ideograms. Novi Eboraci: Ionfox AB. ISBN 91-972705-0-4.
+Macdougall, J. D. 2000. Eine kurze Geschichte der Erde. Econ Taschenbuchverlag. ISBN 3-612-26673-X.
+Mill, H. R. 1893. "The Permanence of Ocean Basins." The Geographical Journal 1(3):230–234.
+Morbidelli, A., J. Chambers, J. I. Lunine, J. M. Petit, F. Robert, G. B. Valsecchi, et K. E. Cyr. 2000. "Source Regions and Time Scales for the Delivery of Water to Earth." Meteoritics & Planetary Science 35(6):1309–1320.
+Moran, J. M. 2005. Weather, in het World Book Online Reference Center. NASA/World Book, Inc.
+Morgan, J. W., et E. Anders. 1980. "Chemical Composition of Earth, Venus, and Mercury." Proceedings of the National Academy of Sciences 71(12):6973–6977.
+Mullen, L.. 2002. "Salt of the Early Earth." NASA Astrobiology Magazine.
+Murphy, J. B., et R. D. Nance. 1965. "How Do Supercontinents Assemble?" American Scientist 92:324–333.
+Oldroyd, David. 1998. Die Biographie der Erde. Zweitausendeins. ISBN 3-86150-285-2.
+Patterson, C. 1956. "Age of Meteorites and the Earth." Geochimica et Cosmochimica Acta 10:230–237.
+Pidwirny, M.. 2006. Fundamentals of Physical Geography.
+Raup, D. M., et J. J. Sepkoski. 1982. "Mass Extinctions in the Marine Fossil Record." Science 215(4539):1501–1503.
+Rona, P. A. 2003. "Resources of the Sea Floor." Science 299(5607):673–674.
+Ross, M. R. 2005. "Who Believes What? Clearing up Confusion over Intelligent Design and Young-Earth Creationism." Journal Of Geoscience Education 53(3):319.
+Sackmann, I.-J., A. I. Boothroyd, K. E. Kraemer. 1993. "Our Sun: III: Present and Future." Astrophysical Journal 418:457–468.
+Schröder, K.-P., et R. C. Smith. 2008. "Distant Future of the Sun and Earth Revisited." Monthly Notices of the Royal Astronomical Society.
+Scott, M. 2006. Earth's Big Heat Bucket. NASA Earth Observatory.
+Shiklomanov, I. A., ed. 1999. World Water Resources and Their Use Beginning of the 21st Century. Sancti Petersburgi: UNESCO & State Hydrological Institute.
+Stanley, S. M. 1999. Earth System History. Novi Eboraci: W. H. Freeman & Co. ISBN 0-7167-2882-6.
+Tinetti, G., A. Vidal-Madjar, M.-C. Liang, J.-P. Beaulieu, Y. Yung, S. Carey, R. J. Barber, J. Tennyson, I. Ribas, N. Allard, G. E. Ballester, D. K. Sing, et F. Selsis. 2007. "Water Vapour in the Atmosphere of a Transiting Extrasolar Planet." Nature 448:169–171.
+Ward, P. D., et D. Brownlee. 2004. The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World. H. Holt & Co. ISBN 0-8050-7512-7.
+Ward, P. D., et D. Brownlee. 2000. Rare Earth: Why Complex Life is Uncommon in the Universe. Novi Eboraci: Springer-Verlag. ISBN 0387987010.
+Williams, D. M., et J. F. Kasting. 1996. "Habitable Planets with High Obliquities." Lunar and Planetary Science 27:1437–1438.
+Nexus externi[recensere | fontem recensere]
+ 
+Vicimedia Communia plura habent quae ad Tellurem spectant. 
+ 
+Vide Tellus apud Viciviam. 
+"Astronomy Cast" (Audio—Cain/Gay), apud www.astronomycast.com
+Descriptio Telluris a NASA's Solar System Exploration composita
+Geody—Visita Terram, apud www.geody.com
+Mutationes climatis faciunt ut forma Telluris mutetur (NASA), apud www.nasa.gov
+Observatorium Telluris, apud earthobservatory.nasa.gov
+Porta ad Photographiam Telluris ab Astronautis Factam, apud eol.jsc.nasa.gov
+Programma de Geomagnetismo USGS, apud geomag.usgs.gov
+
+
+Graecia antiqua
+
+Salire ad: navigationem, quaerere 
+Unam legis e paginis de
+historia Graeca
+disserentibus
+
+
+[Dilatare]
+Aetas lapidea
+[Dilatare]
+Aetas aënea
+[Dilatare]
+Graecia antiqua
+[Dilatare]
+Medium aevum
+[Dilatare]
+Graecia moderna
+Vide etiam
+Ars Graeca
+ 
+
+Acropolis Athenarum
+ 
+
+Tabula Graeciae antiquae, anno 1741 ab Iohanne Christophoro Harenburg facta
+ 
+
+Graecia aetate belli Persici.
+ 
+
+Graecia tempore Thebarum hegemoniae.
+Graecia antiqua, qua cultura Europaea maxime imbuta est, fuit civilizatio tempore historico a saeculis obscuris Graecis saeculorum a duodecimo ad nonum usque ad finem antiquitatis classicae (circa annum 600). Sensu latiore etiam tempus usque ad antiquitatis finem (sive ad Imperii Romani Orientalis ortum) addi potest. 
+Index [celare] 
+1
+Graecia archaica (circiter 700–500 a.C.n.)
+2
+Graecia classica (500–336/323 a.C.n.)
+2.1
+Seditio Ionica, Persicum bellum et Foedus Delium
+2.2
+Bella Peloponnesiaca
+3
+Graecia Romana
+4
+Nexus interni
+5
+Bibliographia
+Graecia archaica (circiter 700–500 a.C.n.)[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Graecia archaica
+Graecia classica (500–336/323 a.C.n.)[recensere | fontem recensere]
+Seditio Ionica, Persicum bellum et Foedus Delium[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Persicum bellum
+Cum Graeci Persas firme devicissent, Athenienses "Foedus Delium" (aerarium societatis enim in hac insula primum erat) creaverunt, ut Graeci bellum contra Perses efficientius gerant. Lacedaemones eorum "Societatem Peloponnesiam" sexto saeculo iam instituerant. Athenienses anno 467 a.C.n. pugna apud Eurymedontem Persas iterum vicerunt. Cimon, filius Miltiadis Marathoniae pugnae ducis, huius pugnae dux fuit. 
+Populus Atheniensis tamen Cimonem, quod esset "Lacedaemoniorum amicus", expulit (tale iudicium Athenis ostracismus sive exilium dicatum erat); qui sub annum 451 a.C.n. revocatus est et duobus Foederis Delii navibus Pericle adnuente civitates Cyprias ac Aegyptiacas, cum contra Persas rebellarent, adiuvit. Paulo post mortuus est. 
+Si proximo anno pax inter Athenienses Persasque facta sit, varie disputatur. Foedus Delium quidem non solutum est. Iam anno 454 aerarium Athenas translatum est. Foedus Delium iam quasi Imperium Athenaeum erat. Cum Samii anno 440 contra hoc imperium rebellavissent, seditio crudelissime suppressa est. 
+Bella Peloponnesiaca[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Bellum Peloponnesiacum
+Iam anno 458 bellum inter Athenienses Lacedaemonesque — primum bellum Peloponnesiacum — ortum erat. Anno 457 Lacedaemonii Athenienses apud Tanagram devicerunt, sed proximo anno Athenienses victoria apud Oenophyta Boeotiae potiti sunt, quam tamen anno 447 pugna Coronensi iterum amiserunt. Anno 445 Athenienses Lacedaemonesque "Triginta Annorum Foedus" fecerunt. 
+Incrementum Athenarum potentiae Lacedaemonibus metum excitavit. Hunc metum (secundi) Belli Peloponnesiaci veram causam esse dixit Atheniensis Thucydides, qui historiam belli scripsit. Athenienses divites, audaces, potentes erant, sed intra duos annos pestilentia permultos (inter quos primum eorum Periclem) interfecit. Anno 425 tamen Pylii Sphacteriaeque Athenienses 120 Lacedaemonios ceperunt. Proximo anno, Delii Boeotiique Athenienses devicerunt ; anno 421, pacem sic dictam Niciae Athenienses Lacedaemoniique instituerunt. 
+Pax tamen non duravit. Anno 418, Mantineiae contra Athenienses Lacedaemonii se adhuc terra fortissimos esse demonstraverunt; deinde autem cives Athenarum se mari audacissimos esse demonstraverunt. Ad Siciliam navigaverunt et maximam urbium insulae Syracusas oppugnaverunt, sed anno 413 deleta est tota eorum classis. Nihilominus Athenienses cum ultima pecunia eorum naves plures construxerunt, Alcibiadeque duce anno 410 plures (inter alias apud Cycicum vicerunt. Deinde autem (407 ad 406) apud Notium classis Atheniensium devicta est (non Alcibiades sed praefectus suus Antiochus temere Lacedaemonios oppugnaverat, tamen Alcibiades missus est). Eodem anno autem iterum Athenae resurrexerunt sineque Alcibiade apud Arginusas vicerunt. Denique anno 405 Aegospotamis Lacedaemonii ultimam classem Atheniensium plane destruxerunt et Hellespontum ceperunt. Sine frumento, quod ex Ponto afferebatur, Athenienses superesse non poterant, et Lacedaemoniis se dederunt. 
+Graecia Romana[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Graecia Romana
+Nexus interni
+Historia Graeca
+Homerus
+Bibliographia[recensere | fontem recensere]
+Bengtson, Hermann. 2008. Historia de Grecia: Desde los comienzos hasta la época imperial romana. Matriti: Gredos. ISBN 9788424901523.
+Bowersock, Glen W. 1985. The literature of the Empire. In The Cambridge History of Classical Literature, ed. P. E. Easterling et M. W. Bernard. Cantabrigiae: Cambridge University Press.
+Bulloch, A. W. 1985. Hellenistic Poetry. In The Cambridge History of Classical Literature, ed. P. E. Easterling et M. W. Bernard. Cantabrigiae: Cambridge University Press.
+Handley, E. W. 1985. Comedy. In The Cambridge History of Classical Literature, ed. P. E. Easterling et M. W. Bernard. Cambridge: Cambridge University Press.
+Hornblower, Simon. 2011. The Greek World: 479–323 BC. Ed. 4a. Abingdoniae: Routledge.
+Kirk, G. S. 1985. Homer. In The Cambridge History of Classical Literature, ed. P. E. Easterling et M. W. Bernard. Cantabrigiae: Cambridge University Press.
+König, Jason. 2016. Literature in the Roman World. In A Companion to Greek Literature, ed. Martin Hose et David Schenker. John Wiley & Sons.
+Martin, Thomas R. 2013. Ancient Greece: From Prehistoric to Hellenistic Times. Ed. 2a. Portu Novo: Yale University Press.
+McGlew, James 2016. Literature in the Classical Age of Greece. In A Companion to Greek Literature, ed. Martin Hose et David Schenker. John Wiley & Sons.
+Mori, Anatole. 2016. Literature in the Hellenistic World". In A Companion to Greek Literature, ed. Martin Hose et David Schenker. John Wiley & Sons.
+Pasek, Steve. 2011. Griechenland und Ägypten im Kontexte der vorderorientalischen Großmächte: Die Kontakte zwischen dem Pharaonenreich und der Ägäis vom 7. bis zum 4. Jahrhundert vor Christus. Monaci. ISBN 9783899757446.
+Power, Timothy. 2016. Literature in the Archaic Age. In A Companion to Greek Literature, ed. Martin Hose et David Schenker. John Wiley & Sons.
+
+
+Mechanica quantica
+
+Salire ad: navigationem, quaerere 
+ 
+
+Feles Schrödinger cuius vita incerta est ob effectum quanticum.
+Mechanica quantica vel physica quantica (seu ambo cum nomine adiectivo quantalis) vel physica quantorum[1] est theoria physica creata saeculo XX, quando physici invenerunt mechanicam classicam non satis esse ad particulas microscopicas earumque motus describendas. Theoria postea creata, maxima cum precisione experimentali verificata, adamussim tales particulas eorumque "motus" describit. 
+Verumtamen theoria solummodo probabilitates eventorum dat, et phaenomenorum quanticorum explanatio re vera non provenit, quod apud physicos magnam de interpretatione metaphysica controversiam provocat. Etiam ab anno 1976 usque ad annum 2007 experimenta quasdam incompatibilitates cum theoria relativitatis Einsteinianae demonsta sunt, quae inlocalitas nominatur. Multi physici igitur, ut ea incompatibilitas submoveatur et ut interpretatio satisfactoria proveatur, investigationes relativisticas quanticasque hodie extendunt. 
+Index [celare] 
+1
+Terminologia
+2
+Formae mechanicae quanticae
+3
+Notiones fundamentales mechanicae quanticae
+4
+Physici quantici celebres
+5
+Notae
+6
+Nexus externi
+7
+Fontes Anglici
+8
+Fontes Latini
+Terminologia[recensere | fontem recensere]
+Verba quantica et quantalis ad descriptiones adhibentur quod energia inter particulas, apparatus et campos physicos semper in quantitatibus discretis vel demensis translata est. Physici quidem hodie omnes particulas elementarias putant esse quantitates energiae in transitu; et, quod energia in transitu undas quoque certo sensu significat, oportet mechanicam quanticam comprehendere leges undarum particularumque. 
+Formae mechanicae quanticae[recensere | fontem recensere]
+ 
+
+Particulae formamen percutens in album distante ostendunt ingerentiam quanticam. = ???
+Leges motus quanticae hodiernae
+Theoria chordarum
+Theoria photonica Einstein-Planck
+Theoria quantica Bohriana
+Theoria undulatoria Schrödingeriana
+Theoria undarum gubernatoriarum De Broglie-Bohm
+Theoria camporum quantica
+Aliae theoriae quanticae
+Notiones fundamentales mechanicae quanticae[recensere | fontem recensere]
+Sunt multae notiones quae specialiter ad mechanicam quanticam spectant: 
+constans Planckiana
+status proprius 
+valor proprius
+functio undulatoria
+ingerentia
+inlocalitas
+operator Hamiltonianus
+principicum incertitudinis Heisenbergianum
+vector quanticus
+Physici quantici celebres[recensere | fontem recensere]
+Nicolaus Bohr
+Maximus Born 
+Ludovicus Victor de Broglie
+Paulus Dirac
+Albertus Einstein
+Ricardus Feynman
+Werner Heisenberg 
+Maximilianus Planck
+Ernestus Rutherford
+Ervinus Schrödinger
+Notae[recensere | fontem recensere]
+Jump up 
+↑ Ebbe Vilborg. Norstedts svensk-latinska ordbok. Editio secunda anni 2009. 
+Nexus externi[recensere | fontem recensere]
+ 
+Vicimedia Communia plura habent quae ad mechanicam quanticam spectant. 
+Fontes Anglici[recensere | fontem recensere]
+P. A. M. Dirac, The Principles of Quantum Mechanics, Oxford University Press, 1930, ISBN 0-19-852011-5.
+David J. Griffiths, Introduction to Quantum Mechanics, Prentice Hall, 1995. ISBN 0-13-124405-1.
+Richard P. Feynman, QED: The Strange Theory of Light and Matter—Liber celeber de physica quantica campoque quantico, pro peritis novitiisque.
+Paulus Davies, Quantum Mechanics, (with David S. Betts)1984, 2nd edition, CRC Press, 1994.
+Lee Smolin, Three Roads to Quantum Gravity, 2001, ISBN 0-465-07835-4
+Fontes Latini[recensere | fontem recensere]
+Berard De Philosophia Quantali et Institutione Publica, ISBN 2-87290-022-5 libri apud users.skynet.be Hoc libro, per Fundationem Melissae divulgato, Stephanus Berard, apud users.skynet.be
+Philippus Soccorsi, Quaestiones scientificae cum philosophia coniunctae: De physica quantica, Romae, Pontificia universitas Gregoriana, 1956.
+
+
+Russia
+
+Salire ad: navigationem, quaerere 
+Haec pagina de terra hodierna explicat. Si aliud quaeris quod etiam "Russia" appellatur, vide Russia (discretiva).
+Россия
+Российская Федерация 
+ 
+ 
+Vexillum 
+Insigne 
+Sententia: - 
+Hymnus: Hymnus Russiae
+ 
+Forma administrationis 
+Res publica 
+Linguae officiales 
+lingua Russica 
+Nomen incolarum 
+Russus 
+adiectivum 
+Russicus 
+Praeses 
+Vladimirus Putin 
+Praeses Gubernationis 
+Demetrius Medvedev 
+Caput 
+Moscua 
+Urbs maxima 
+Moscua 
+Area
+ - Totalis
+ - aqua (%) 
+de area 1.a
+17 125 191 km²
+4,22 
+Numerus incolarum
+(anno 2017)
+Totalis 
+ - Spissitudo 
+de frequentia 9.a 
+
+146 838 993
+8,56/km² 
+PDB (anno 2015)
+ - Totalis
+ - PDB/capita 
+de producto 6.a
+$3 718 000 miliones
+$25 411 (48.a) 
+Nummus 
+Rubelus Russicus (RUB) 
+Condita
+ - Vocatio Varegorum
+ - Dissolutio URSS 
+
+862
+25 Decembris 1991 
+Circulus temporalis
+ - aestate (HÆ) 
+(UTC+2 ad +12)
+(UTC) 
+Praefixum telephonicum nationis 
++7 
+Dominium interretiale 
+[[..ru, .su, .рф]] 
+
+Russia,[1][2][3] etiam Rossia[4] seu Ruthenia[5] (Russice Россия, tr. Rossija), nunc publice et Foederatio Russica[6] vel Rossica vel Ruthenica (Russice Российская Федерация, tr. Rossijskaja Federacija), est res publica in Europa Orientali et Asia septentrionali, maxima orbis terrarum civitas sui iuris. Area Russiae est 17 125 191 km2,[7][8] numerus incolarum aestimatus est fere 146 839 milia hominum (anno 2017). 
+Russia est res publica libera foederalis, 85 subiecta Foederationis habens. 
+Caput Russiae est Moscua (Moscovia), quae etiam est urbs maxima huius terrae. Publica et divulgatissima civitatis lingua est lingua Russica. 
+Cum gentes multae in Russia habitant, Russi gens plurima ibi sunt, circa 80% populationis civitatis formantes. Homines religiosi praesertim Christiani (ut plurimum, Orthodoxi) sunt. 
+Foederatio Russica est sodalis nonnullarum societatum internationalium, quarum sunt Consociatio Nationum (ubi Russia est membrum perpetuum Concilii Salutis), Independentium Civitatum Foederatio, etc. 
+Index [celare] 
+1
+Nomen
+2
+Historia
+2.1
+Praehistoria Russiae
+2.2
+Civitas Russica antiqua
+2.3
+Detritus terrarum Russicarum. Invasio Mongolo-Tatarorum
+2.4
+Moscovia
+2.5
+Imperium Russicum
+2.6
+Russia Sovietica
+2.7
+Unio Sovietica
+2.8
+Foederatio Russica
+3
+Institutio publica
+4
+Divisio administrativa foederalis
+5
+Geographia
+5.1
+Lacus et flumina
+5.2
+Maria
+5.3
+Insulae
+5.4
+Clima
+5.5
+Flora et fauna
+6
+Homines
+6.1
+Numerus
+6.2
+Gentes
+6.3
+Linguae
+6.4
+Religio
+7
+Cultura
+8
+Oeconomia
+9
+Notae
+10
+Nexus interni
+11
+Bibliographia
+12
+Nexus externi
+Nomen[recensere | fontem recensere]
+Temporibus antiquis, pars Russiae hodiernae etiam ab auctoribus classicis dicta est Sarmatia (e Graeco incolarum nomine Σαυρόμμαται [9]) et Scythia. 
+Origo nominis hodiernae connecta est cum civitate antiqua, saeculo nono in Europa Orientali formata, quae ipso vulgo Rus’ (Русь, seu modo antiquo Рѹсь, vel etiam Рѹсьскаѧ землѧ, i.e. 'terra Russica'), in textibus Latinis Europae Occidentalis illo tempore Russia, Ruscia, Rusca, Rutigia, serius et Ruthenia nominabatur. In Imperio Romano Orientali (Byzantino) autem civitas illa una cum gente eius Rhōs (Ῥῶς) vocabatur, et in operibus Constantini Porphyrogeniti De administrando imperio et De cerimoniis aulae Byzantinae, medio saeculi decimi scriptis, nomen Rhōsía (Ῥωσία) primo inventum est.[10] Abhoc originem suam ducit nomen Rossia (in orthographia antiqua Россіа et Россія, hodierna vero Россия, tr. Rossija), quo incolae Russiae patriam suam appellant.[11] 
+ 
+
+Russiae, vulgo Moscovia, pars australis, auctore Isaaco Massa (tabula geographica, anno 1645 a Blaeu edita)
+Cum Russia (Rus’), Latine etiam Roxolania et Ruthenia,[12] fuit nomen omnium terrarum Slavorum orientalium, Rossia facta est appellatio vulgaris partium aquilonis terrarum illarum, non a Polonia ac Magno Ducatu Lituaniae adiunctarum, sed a Magno Ducatu Moscoviae coniunctarum. Haec appellatio ut versio 'graecizata' nominis Russiae iam temporibus Ioannis III (magni ducis Moscoviae "et totius Russiae") utebantur, et facta est officialis cum Ioannes IV, anno 1547, titulum regalem tzaris (czaris) accepit, et regnum eius "Rossicum" nominatum est.[13] In aliis terris Europaeis regnum illud saeculis sedecimo septindecimoque, nonnumquam et serius, nisi Russia (alba [14][12] vel magna[14]), sed etiam Moscovia[14] (secundum metropolim suam) dicebatur. 
+Hoc regnum anno 1721 imperium, anno 1917 rem publicam liberam, et anno 1918 rem publicam liberam foederalem (RSFSR) declaratum est, quod etiam in nominibus terrae publicis notabatur. Ab anno 1991 haec civitas Russia (ipso vulgo Rossia) seu Foederatio Russica (Rossica) officiale dicitur. 
+Historia[recensere | fontem recensere]
+Foederatio Russica hodierna est successor nonnullarum civitatum, quarum sunt: 
+Civitas Russica (Ruthenica) antiqua (ab anno 862 ad medium saeculi tredecimi), a saeculo undevicesimo etiam Russia Kioviensis (Киевская Русь, tr. Kievskaja Rus’ ) nominatur, cuius metropolis initio Novogardia Magna, et ab anno 882 Kiovia erat.
+Ducatus Russici varii (a medio duodecimi ad initium saeculi sedecimi), quorum metropolium Volodimiria a medio saeculi tredecimi principalis erat.
+Civitas Russica (a fine saeculi quindecimi ad 1721): initio Magnus Ducatus Moscoviae (Великое княжество Московское, tr. Velikoe knjažestvo Moskovskoe ), et ab anno 1547 Regnum Russicum (Русское царство, tr Russkoe carstvo) vel Regnum Rossicum (Российское царство, tr. Rossijskoe carstvo) nominabatur. Metropolis erat Moscua (Moscovia), et ab anno 1712 Petropolis.
+Imperium Russicum, seu Imperium Rossicum (Российская империя, tr. Rossijskaja imperija), cuius caput fuit Petropolis (et Moscua, annis 1728 – 1732), die 22 Octobris (secundum Calendarium Iulianum) 1721 declaratum, de iure ad 1 Septembris 1917 exsistebat.
+Res Publica Russica, seu Res Publica Rossica (Российская республика, tr. Rossijskaja respublika), a 1 Septembris ad 25 Octobris (secundum Calendarium Iulianum) anni 1917.
+Res Publica Russica (Rossica) Sovietica, Rerum Novarum Octobrium (25 Octobris secundum Calendarium Iulianum, vel 7 Novembris secundum Gregorianum, anni 1917) declarata, mense Ianuario anno 1918 etiam foederatio facta, cuius nomen publicum Russica (Rossica) Sovietica Foederativa Socialistica Res Publica (Российская Советская Федеративная Социалистическая Республика, tr. Rossijskaja Sovetskaja Federativnaja Socialističeskaja Respublika), seu breve RSFSR, metropolis autem initio Petropolis, dein (a 12 Martii 1918) Moscua fuit.
+Unio Rerum Publicarum Sovieticarum Socialisticarum (Союз Советских Социалистических Республик, tr. Sojuz Sovetskich Socialističeskich Respublik), breviter Unio Sovietica ( Советский Союз, tr. Sovetskij Sojuz) vel URSS (СССР, tr. SSSR), quae a 30 Decembris 1922 ad 26 Decembris 1991 exsistebat. Eius res publica maxima fuit Russica SFSR, et caput Moscua fuit.
+Russia (Rossia), seu Foederatio Russica (Rossica), quo nomine RSFSR a 25 Decembris 1991 dicitur,[15] Moscuam ut metropolim suam habens.
+Praehistoria Russiae[recensere | fontem recensere]
+ 
+
+Hypothesis Kurgana: Russia Meridiana ut patria linguistica populorum Indo-Europaeaorum.
+Homines in terris Russiae hodiernae (e.g. in Siberia et Caucaso septentrionali) iam aevo Palaeolithico habitabant. Statio hominum sapientium, antiquissima in mundo (circa quinquaginta milia annorum retrorsum), Kostënki (Markina gora) nominata, sita est in regione Voronegiensi Russiae.[16] 
+Territorium, nunc ad Russiam pertinens, fuit locus habitationis et migrationis variarum gentium antiquarum: Scytharum, Sarmatarum (Roxolanorum, Alanorum, etc.), Gothorum atque Hunnorum. In litoribus Ponti Euxini saeculis sexto – quinto a.Chr.n. coloniae Graecorum conditae sunt, et postea Regna Scythicum et Bosporanum ibi exsistebant. Annis 552 – 745 pars territorii Russiae hodiernae (Siberiae meridianae) a regno Turcico (Göktürk) occupabatur. A saeculo septimo ad saeculum decimum in terris prope fluxum inferiorem Rha fluvii, in Caucaso seprentrionali et prope Maeotidem regnum Chazarorum locabatur. Meridies territorii Maritimi (Primorskensis) in Oriente Extremo Russiae initio saeculi octavi pars regni Bohai (i.e. 'Maritimi') erat. 
+Civitas Russica antiqua[recensere | fontem recensere]
+ 
+
+Russia Kioviensis saeculo undecimo.
+ Si plus cognoscere vis, vide Ruthenia
+ Si plus cognoscere vis, vide Russia Kioviensis
+Ad medium saeculi noni in septentrione hodiernae Russiae Europaeae creata est unio politica gentium Slavicarum orientalium, Finno-Ugricarum et Balticarum. 
+Initium huius civitatis traditione connectum est cum Rurico, duce "ex Waregis"[17], qui "conditor Monarchiae Russicae"[17] nominatus est. Secundum annales Russicas antiquas, anno 862 Ruricus ad thronum invitatus cum fratribus suis venit et factus est monarcha, sedem suam Novogardiae in urbe habens. Successor Rurici, Helgus (vulgo Oleg), dux Novogardiensis, cum copiis suis Kioviam urbem occupavit et metropolis regni sui ("mater urbium Russicarum") eam fecit. Sic creata est civitas, Latine Ruscia, Russia, Ruthenia, et ipso vulgo Rus’ dicitur, nunc etiam ut Russia Kioviensis nota. 
+ 
+
+Baptismus Kioviensium. Tabula a Claudio Lebedev picta.
+Cum saeculis nono decimoque terrae omnium Slavorum orientalium atque nonnullarum gentium Finno-Ugricarum, Balticarum et Turcicarum in civitatem Russicam (Ruthenicam) antiquam inclusae sunt, hoc regnum territoria Ucrainae et Rutheniae Albae partemque territorii Russiae nostri temporis comprehendit. Illo tempore Russia (Ruthenia) Kioviensis civitas Europae maxima erat, pro dominatione in Europa Orientali contra Imperium Byzantinum luctans. Annis 988 et 989, cum monarcha Russicus (Ruthenicus) erat magnus dux Kioviensis Vladimirus I Magnus, religio Christiana (ritus orientalis), ex Imperio Byzantino recepta, facta est religio publica Russiae Kioviensis. 
+Detritus terrarum Russicarum. Invasio Mongolo-Tatarorum[recensere | fontem recensere]
+Saeculo duodecimo, detritus regni Ruthenici uniti accidit. Formati sunt multi Ruthenorum ducatus sui iuris (quorum Kioviensis initio ut principalis aestimabatur), ex quibus capitibus in territorio Russiae hodiernae sunt Novogardia Magna, Volodimiria, Resania, Smolenscum, et nonnullae aliae urbes. Gradatim ducatus Volodimiriensis in Ruthenia Septentrio-Orientali principalis factus est. 
+Anno 1237, Mongoli (Mogoles) suis sociisque ex oriente invaserunt. Illi tunc ab alienigenis Tatari vel Tartari vocabantur, et nunc appellatio Mongolo-Tatari (seu Tataro-Mongoli) pro denotatione illorum in usu est. Mongolo-Tartari multas eversiones affecerunt (e.g., Kiovia, Resania, Susdalia, Volodimiria, et multae aliae urbes Rutheniae illo tempore ab agressoribus destructae sunt). Formaverunt regnum, Orda sive nunc Orda Aurea appellatur, cui ducatus Ruthenici tributum pendere debuerunt. Thronus Volodimiriensis ipse, in Ruthenia Septentrio-Orientali senior, ducibus Russicis mandatis chanorum Ordae dabatur. Periodus ille historicus "iugum Mongolo-Tartaricum" ("iugum Tartaricum") appellatur. 
+Moscovia[recensere | fontem recensere]
+ 
+
+Moscoviae maximi amplissimique ducatus chorographica descriptio
+ 
+
+Ioannes III, Magnus Dux Moscoviae
+ Si plus cognoscere vis, vide Moscovia
+Saeculo quarto decimo ascendit Rutheniae Septentrio-Orientalis ducatus Moscoviae, saeculo tertio decimo formatus. Duces Moscoviae gradatim etiam thronum magnorum ducum Volodimiriae ceperunt. Demetrius, magnus dux Moscoviae et Volodimiriae, anno 1380 copias Russicas in pugna contra Mongolo-Tataros in campo Kulikovo ad victoriam duxit, et in fine vitae suae thronos Moscoviticum et Volodimiriensem filio suo Basilio sine sanctione Ordae tradidit. 
+Saeculo quinto decimo Ioannes III, magnus dux Moscoviae ab anno 1462, multas terras adiunxit: ducatus Iaroslaviensem et Rostoviensem, rem publicam Novogardiensem, ducatum Tueriensem, Viatcam, Permiam, etc. Anno 1480 iugum Mongolo-Tartarorum decivit. Contra Magnum Ducatum Lituaniae prospere bellabat. Ioannes III se "magnum ducem totius Russiae (Rutheniae)" proclamavit. 
+Exinde regnum Moscoviticum nominatur Rus’ (Русь, i.e. Ruthenia seu Russia sensu antiquo), sicut regnum antiquum (haec forma ad finem saeculi septimi decimi praevalebat) seu Rossia (Россия, i.e. Russia in notione hodierna, quae forma nominis originem suam ducit e Ρωσία, nomine Graeco pro Ruthenia, fine saeculi quinti decimi in litteris Russicis primo obvia est et initio saeculi duodevicensimi facta est officialis), sed ab alienigenis Europaeis saeculis sexto decimo et septimo decimo Moscovia appellabatur. 
+ 
+
+Tzar Ioannes Severus. Tabula a Victore Vasnetsov picta.
+Filius Ioanni III, magnus dux (ab anno 1505) Basilius III, anno 1510 Pscoviam adiunxit. Smolenscum anno 1514 iniunctum est, ob bellum contra Magnum Ducatum Lituaniae (1512–1522). Ab anno 1521 ducatus Resaniensis est pars Russiae. 
+Filius Basilii III, Ioannes IV (magnus dux "totius Rutheniae" ab anno 1533) anno 1547 primus tzar (sive czar, i.e. caesar vel rex) Russiae factus est. Chanatus Casanensem et Astrachanensem atque nonnullas alias terras adiunxit. 
+Saeculis sexto decimo et septimo decimo, Russi Siberiae potiti sunt. Populus Russiae saeculo septimo decimo ineunte interventionem Poloniae Lituaniaeque et Sueciae repressit, quae tamen nonnullas terras huius regni occupaverunt. Anno 1654, Ucraina orientalis (cum Kiovia), quae fuerat pars regni Poloniae et Lituaniae, decreto Concilii Pereaslaviensis se Russiae (regno Moscovitico) adiunxit. 
+ 
+
+Petrus Magnus. Tabula a Paulo Delaroche picta.
+ 
+
+Catharina II Magna (1729-1796). Tabula a Ioanne Baptista Lampi picta.
+Imperium Russicum[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Imperium Russicum
+Tzar (ab anno 1682) Petrus I reformationes multas perfecit. Contra Sueciam ab anno 1700 ad annum 1721 bellabat: Ingriam partemque Careliae (a Suecia saeculo sexto decimo occupatas) recuperivit, Estoniam et Livoniam adiunxit. Anno 1712 caput regni ex Moscua Petropolim transtulit. Anno 1721 Petrus I factus est primus imperator Imperii Russici ('Russorum Imperator'). 
+Imperium Russicum saeculis duodevicensimo et undevicensimo territorium suum extendit, magni valoris erat. Anno 1812, Bellum Patrium contra Franciam invadentem gestum est; Russia agressorem vicit. Ab anno 1853 ad annum 1856, Imperium Russicum contra Turciam, Regnum Unitum, Franciam, et Regnum Sardiniae in Bello Crimeaeno bellabat, sed superatum est. Annis 1877 et 1878 Russia contra Turciam bellabat, Bulgariam liberavit. 
+Annis 1904–1905, Imperium Russicum contra Iaponiam bellabat, sed bellum illud perdidit? et certis territoriis capta est. 
+Anno 1905, prima revolutio Russica accidit, quae ad annum 1907 durabat. Publicus legumlatorum coetus, Duma nominatur, anno 1905 institutus est (ad annum 1917 exsistebat, nomen coeti illius anno 1993 factum est appellatio parlamenti Foederationis Russicae). 
+Anno 1914 primum bellum mundanum conflatum est, quo Russia cum Serbia, Francia, Regno Unito, etc., contra Germaniam, Imperium Austro-Hungaricum, Turciam, et Bulgariam bellabat. 
+Anno 1917, res novae duae (Revolutio Februaria et Revolutio Octobris) in Russia acciderunt, et imperium factum est res publica libera. Certae Imperii Russici partes priscae (Finnia, Polonia, et nonnullae aliae) civitates sui iuris factae sunt. 
+Russia Sovietica[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Russica Sovietica Foederativa Socialistica Res Publica
+ 
+
+Vladimirus Lenin et Iosephus Stalin.
+ 
+
+Mir, statio spatialis Sovietica et Russica.
+Propter revolutionem dominatio Sovietorum (i.e. Conciliorum) legatorum operariorum, rusticorum et militarium declarata in Russia est. Revolutionis? Octobris causa Factio Communistica (Bolsevicorum), cuius dux erat Vladimirus Lenin, facta est regnatrix. 
+Russica Sovietica Foederativa Socialistica Res Publica (RSFSR) mense Ianuario anno 1918 a Tertio Omnirussico Conventu Sovietorum proclamata est. Die 12 Martii 1918, Moscua denuo caput Russiae facta est. Bellum civile in Russia annis 1918–1920 durabat (locis nonnullis ad annum 1922 et porro manebat). Communistae cum sociis suis pugnabat contra adversarios dominationis Sovietorum et vicerunt. 
+Unio Sovietica[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Unio Rerum Publicarum Socialisticarum Sovieticarum
+Anno 1922, Russia cum Ucraina, Ruthenia Alba et Foederatione Transcaucasica Unionem Rerum Publicarum Socialisticarum Sovieticarum (URSS) formavit, cuius unionis res publica maxima fuit. 
+Ab anno 1941 ad annum 1945 erat Bellum Magnum Patrium (pars Belli Orbis Terrarum II) Unionis Sovieticae contra Germaniam. Anno 1945, post victoriam supra Germaniam, URSS cum Civitatibus Foederatis Americae et aliis terris contra Iaponiam bellabat et recuperivit territoria, anno 1905 ab Imperio Russico amissa. 
+Anno 1945, Unio Sovietica fuit unus ex conditoribus Consociationis Nationum. 
+Die 12 Iunii 1990, declaratio de plena libertate publica Russiae accepta est. Die 12 Iunii 1991 electus est primus praeses Russicae SFSR Boris Ieltsin. 
+Anno 1991, URSS dissoluta est. Mense Decembri anno illo praesides Russiae et Ucrainae praesesque Concilii Supremi Rutheniae Albae approbaverunt desintegrationem Unionis Sovieticae (cuius successor nunc Russia est), conventionem de creatione Independentium Civitatum Foederationis subscripserunt. 
+Foederatio Russica[recensere | fontem recensere]
+Mense Decembri anno 1991, publicum civitatis nomen Russicae Sovieticae Foederativae Socialisticae Rei Publicae in nomen Foederationis Russicae mutatum est. Reformationes in terra illa peractae sunt. Mense Septembri anno 1993 a constulto praesidis systema Sovietorum liquidatum est; die 12 Decembris eiusdem anni accepta est hodierna Constitutio Foederationis Russicae. 
+A die 7 Maii anni 2000 ad diem 7 Maii anni 2008, Vladimirus Putin praeses Russiae erat. A die 7 Maii anni 2008 ad diem 7 Maii 2012 praeses Foederationis Russicae erat Demetrius Medvedev (cum Vladimiro Putin duce gubernationis), postquam Putin denuo ad officium praesidis venit. 
+Mense Martio anno 2014 Crimaea, quae antea ad Ucrainam pertinebat (anno 1954 ei ut rei publicae Unionis Sovieticae e Russica SFSR translata), pars Foederationis Russicae facta est. (Ucraina multaeque aliae civitates mundi hanc adiunctionem ut legalem non agnoscunt.) 
+Institutio publica[recensere | fontem recensere]
+Institutio publica Russiae a Constitutione anni 1993 decernitur: Russia est respublica foederalis ('foederativa'). Praefectus civitatis est praeses, a suffragio communi electus, qui etiam est cum imperio copiarum Russiae. Praeses ministrum primum Gubernationis Foederationis Russicae assignat, consensu institutorum legum latoris. 
+Institutum legum latoris supremus reipublicae est Concilium Foederale (Russice Федеральное Собрание, tr. Federal’noe Sobranie) Foederationis Russicae, quod compositum est a partibus duabus, sunt Concilium Foederationis (Russice Совет Федерации, tr. Sovet Federacii) et a populo electum Concilium Publicum vel Coetus Civitatis (Russice Государственная Дума, tr. Gosudarstvennaja Duma). 
+Divisio administrativa foederalis[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Divisio administrativa Russiae
+Russia 22 res publicas autonomas, 46 regiones (Russice, in nom. sg., область, tr. oblast’), novem territoria (Russice, in nom. sg., край, tr. kraj), quattuor districtus vel circulos (Russice, in nom. sg., округ, tr. okrug) autonomos et singulam regionem autonomam comprehendit. Moscua, Petropolis et Sebastopolis sunt "urbes dignitatis foederalis." Haec subiecta Foederationis Russicae in novem districtus (circulos) foederales instituta sunt. 
+ 
+
+Tabula geographica Russiae.
+ 
+
+Mons Elbrus, summum cacumen in Caucaso, Russia.
+Geographia[recensere | fontem recensere]
+Russia, fines terrestres cum Norvegia, Finnia, Estonia, Lettonia, Lituania, Polonia, Ruthenia Alba, Ucraina, Abasgia,[18] Georgia, Ossetia Meridionalis,[18] Atropatene, Kazachstania, Mongolia, Sinis, et Corea Boreali habens, montes (Caucasus, Urales, Altai, Saiani, etc.) silvaeque cuius plurimam ruris partem complent, terras Europae Orientalis Asiaeque Septentrionalis plurimas possedit. Medium geographicum Russiae in alta planitie Putorana situm est. 
+Area Russiae, secundum fontes varias, est 17 098 242[19][20] aut 17 075 400[21] km², quorum 90,5% terra et 9,5% aqua format. 
+Lacus et flumina[recensere | fontem recensere]
+In Russia, quae enim nonnullos lacus (quorum amplissimi sunt Mare Caspium, Baical, Ladoga et Onega) stagnaque continet, multa flumina fluunt (quorum Lena, Obius, Rha, Ienisea, Amur, Rhymnus, Olenecus, Danapris, Colyma, Tanais ac Petschora longissima sunt[22]). 
+Maria[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Maria Russiae
+Litora Russiae a sex maribus Oceani Arctici (qui in Russia "Glacialis Septentrionalis" vocatur), tribus maribus Oceani Atlantici et tribus maribus Oceani Pacifici circumluuntur. 
+Insulae[recensere | fontem recensere]
+Ad Russiam insulae multae pertinent, quarum maximae sunt Nova Zembla, Sachalina, Insulae Novae Sibericae, Terra Borealis, Terra Francisci Iosephi, Insulae Curilenses et Insula Wrangelii.[23] 
+ 
+
+Silva taiga hieme visa, regio Archangelopolitana.
+Clima[recensere | fontem recensere]
+Russia, in Eurasia septentrionali sita, ut plurimum clima continentale habet, sed etiam nonnullas terras cum climatibus polari (in Arctica), alpino (in montibus) et arido (in desertis prope Mare Caspium) tenet. 
+Varietas biotoporum Russiae maxima est in parte eius Europaea, ubi a septentrio ad meridiem zonae desertorum arcticorum, tundrae, silvotundrae, silvarum piniferarum ('taiga' nominantur), silvarum mixtarum, silvosteppae, steppae et semidesertorum sequuntur. Ad orientem tamen clima plurumque continentale est, et numerus biotoporum per spatium latitudinis minor est. 
+Temperaturae mediae in variis partibus Russiae mense Ianuario ab +6 ad −50 °C, mense Iulio autem ab +1 ad +25 °C sunt, cum lapsu ab 150 ad 2000 mm per annum. Temperatura maxima, in territorio Russiae hodiernae nota, est +45,4 °C, die 12 Iulii 2010 in vico Utta Calmucciae permensa; minima nam est −71,2 °C, in vico Ojmjakon Iacutiae hieme anni 1924 nota. Differentia maxima temperaturarum 116,6 °C est. 
+ 
+
+Silva arborum generis Betulae prope Novosibirscum. Betula est arbor civitatis Russica?.
+ 
+
+Ursus arctos est popularis Russiae signum, praecipue in Occidentali.
+Flora et fauna[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Flora Russiae
+ Si plus cognoscere vis, vide Fauna Russiae
+Flora Russiae circa 24 700 species plantarum habet. Varietas specierum plantarum in Russia maxima est in Caucaso (6000) et Oriente Extremo (1900–2000), minima in insulis arcticis Siberiae (100—150) est.[24] Silvae plus quam 40 centesimas terrae occupant, partem quintam omnium silvarum mundi formantes. 
+Species animalium etiam variae sunt. Circiter 1300 species Chordatum et 70 milia species Insectorum in Russia habitant. 
+Russia 41 saepta nationalia et 103 reservata habet. 
+Homines[recensere | fontem recensere]
+Numerus[recensere | fontem recensere]
+Secundum censum, mense Octobri anno 2010 in Russia perfectum, numerus incolarum Russiae est 142 856 536 homines.[25] Ergo, Foederatio Russica populationem maximam inter terris Europaeis habet, numero incolarum locum nonum inter civitates mundi tenens. 
+78 % incolarum Russiae in parte eius Europaea habitant, quae minus quam 25% territorii civitatis format. 
+Densitas populi mediocris est circa 8,36 homines per km². Densitas maxima in Moscua est – plus quam 4626 homines per km², minima vero in Districtu Autonomo Tschucotico – minus quam 0,07 homines per km². 
+73% populationis Foederationis Russicae (anno 2010) in urbibus habitant. Statu 1 Ianuarii 2013, 166 urbes Russiae plus quam centum milia incolarum quaelibet habent, e quibus sunt 15 urbes, plus quam decies centena milia incolarum habentes:[26] 
+ 
+
+Moscua - metropolis et maxima urbs Russiae, circa 12 decies centena milia incolarum habens
+Moscua — 11 979 529 homines;
+Petropolis — 5 028 000 homines;
+Novosibirscum — 1 523 801 homines;
+Catharinoburgum — 1 396 074 homines;
+Novogardia Inferior — 1 259 921 homines;
+Casanum — 1 176 187 homines;
+Samara — 1 171 598 homines;
+Omium — 1 160 670 homines;
+Celiabinsca — 1 156 471 homines;
+Rostovia ad Tanaim — 1 103 700 homines;
+Ufa — 1 077 719 homines;
+Volgogradum — 1 018 790 homines;
+Crasnoiarium — 1 016 385 homines;
+Permia — 1 013 890 homines;
+Voronegia — 1 003 638 homines.
+ Si plus cognoscere vis, vide Index urbium Russiae
+Gentes[recensere | fontem recensere]
+Secundum censum anni 2010, plus quam ducentas gentes in Russia habitant, inter quas sunt: 
+Gens
+Portio
+(anno 2002)[27]
+Portio
+(anno 2010)[27] 
+Russi
+80,64 %
+80,90 % 
+Tatari
+3,87 %
+3,87 % 
+Ucraini
+2,05 %
+1,41 % 
+Baschkiri
+1,16 %
+1,15 % 
+Tschuvaschi
+1,14 %
+1,05 % 
+Tsetseni
+0,95 %
+1,04 % 
+Armeni
+0,79 %
+0,86 % 
+Avares
+0,57 %
+0,66 % 
+Mordua
+0,59 %
+0,54 % 
+Kazachi
+0,46 %
+0,47 % 
+Atropatenici
+0,43 %
+0,44 % 
+Dargini
+0,35 %
+0,43 % 
+Udmurti (olim Votiaci)
+0,44 %
+0,40 % 
+Mari (olim Czeremissi seu Tscheremissi)
+0,42 %
+0,40 % 
+Osseti
+0,36 %
+0,39 % 
+Rutheni Albi
+0,56 %
+0,38 % 
+Cabardini
+0,36 %
+0,38 % 
+Kumyki
+0,29 %
+0,37 % 
+Iacuti
+0,31 %
+0,35 % 
+Lesghi
+0,29 %
+0,35 % 
+Buriati
+0,31 %
+0,34 % 
+Inguschi
+0,29 %
+0,32 % 
+aliae
+3,40 %
+3,51 % 
+cum gente non nota
+atque homines, secundum
+fontes administrativas describentes,
+decies centena milia hominum
+1,46
+5,63 
+ 
+
+Templum Omnium Religionum Casani in urbe multiculturali.
+Linguae[recensere | fontem recensere]
+Gentes Russiae plus quam centum linguis et dialectis, ad Indoeuropaeas, Altaicas, Uralicas, Caucasicas et Palaeosibericas pertinentibus, loquuntur. Lingua divulgatissima est Russica, pro circa 130 decies centenis milibus (92%) incolarum Russiae natalis, quae est lingua publica Foederationis Russicae (quum res publicae Foederationis etiam linguas alias ut publicas suas habere possunt). 
+Religio[recensere | fontem recensere]
+Russia est terra publice saecularis. Cives quamlibet aut nullam religionem confiteri possunt. Homines religiosi Russiae praecipue sunt Christiani (principaliter Orthodoxi, ut plurimum ad Ecclesiam Orthodoxam Russicam pertinentes), alii sunt Musulmani, Iudaei, Buddhisti, etc. Atheistae in Russia etiam multi sunt. 
+ 
+
+Michael Lomonosov, polymathes scientista, inventor, poeta, artifex.
+ 
+
+Leo Tolstoj, scriptor mythistoriarum et philosophus.
+Cultura[recensere | fontem recensere]
+ Si plus cognoscere vis, vide Litterae Russiae
+Russia, a gentibus multis inhabitata, gradum magnum varietatis culturalis habet. Cultura Russica, temporibus variis, subiecta est contagione religionis Christianae Orthodoxae (cum influentia quaedam religionis gentilitatis etiam praeservata) atque culturarum externarum (inter alia, Mongolo-Tataricae et Europaeae Occidentalis). 
+Russia est patria terraque actionum multorum hominum culturae scientiaeque emeritorum, quorum sunt, e.g., eruditus et poeta Michael Lomonosov, poetae Alexander Puškin et Michael Lermontov, scriptores Nicolaus Gogol, Theodorus Dostoevskij et Leo Tolstoj, compositor Petrus Čajkovskij, chemicus Demetrius Mendeleev, physiologus Ioannes Pavlov et multi alii. 
+Oeconomia[recensere | fontem recensere]
+E visceris Russiae petroleum, gasium naturale, lithanthrax, metalla, apatita, adamantes et aliae opes naturales extrahuntur. Energia electrica in officinis electricis terrae huius productur. 
+Russia est terra industrialis cum oeconomia expandenti. Surculi industriae Russiae sunt constructio machinarum, metallurgia, industriae chemica naphtochemicaque, silvatica, textilis, cibaria, etc. Agricultura et pecuaria in terra etiam evolutae sunt. Russia alimenta ignis, machinas, materias rudes, etc., exportat. 
+Moneta Russiae est rubelus. 
+ 
+
+Pupa Matrëška (Matroncula) exposita.
+Notae[recensere | fontem recensere]
+Jump up 
+↑ G. Mercator, Atlas sive Cosmographicæ Meditationes de Fabrica Mundi et Fabricati Figura, s.v. RVSSIA. 
+Jump up 
+↑ I. Hofmannus, Lexicon Universale, s.v. Russia. 
+Jump up 
+↑ Русско-латинский словарь;F. K. Kraft, Deutsch-lateinisches Lexikon, tomus 2, p. 1249. 
+Jump up 
+↑ S. Kalegin, Rossia aut Russia?; P. G. Pallas, Zoographia rosso-asiatica. 
+Jump up 
+↑ F. K. Kraft, Deutsch-lateinisches Lexikon, tomus 2, P. 1249. 
+Jump up 
+↑ Omnes terrai orbis in linguas quadraginta (XL); EPHEMERIS: H. Novocomensis, De Russorum tumultibus. 
+Jump up 
+↑ Государственный (национальный) доклад о состоянии и использовании земель в Российской Федерации в 2011 году (на 1 января 2012 года) (с. 171) // Федеральная служба государственной регистрации, кадастра и картографии (Росреестр) 
+Jump up 
+↑ Cum re publica Crimaea (26 081 km²) et Sebastopoli (864 km²), sine quibus est 17 098 246 km² (area Foederationis Russicae statu 1 Ianuarii 2012. Adiunctio Crimaeae ad Foederationem Russicam non internationali recognita est. 
+Jump up 
+↑ Ubi σαῦρος lacertum vocat et ὂμμα oculos (Ch. Ph. Reiff, Grammaire russe précédée d'une introduction sur la langue slavonne (Petroburgi et Lutetiae, 1851). 
+Jump up 
+↑ Соловьев А. В. Византийское имя России // Византийский временник. — 1957. — № 12. — С. 134–155. 
+Jump up 
+↑ S. Kalegin, Rossia aut Russia? 
+↑ 
+Jump up to: 
+12.0 12.1 I.I. Hofmannus, Lexicon universale, tomus IV, P. cvij 
+Jump up 
+↑ Хорошкевич А. Л. Символы русской государственности. - М. :Изд-во МГУ,1993. ISBN 5-211-02521-0 — C.40 
+↑ 
+Jump up to: 
+14.0 14.1 14.2 I.I. Hofmannus, Lexicon universale, tomus III, P. 222. 
+Jump up 
+↑ Lex RSFSR a 25 Decembris 1991 № 2094-I «Об изменении наименования государства Российская Советская Федеративная Социалистическая Республика» (De mutatione nominationis civitatis Russica Sovietica Foederativa Socialistica Res Publica) 
+Jump up 
+↑ M. V. Anikovich, A. A. Sinitsyn, John F. Hoffecker, Vance T. Holliday, V. V. Popov, S. N. Lisitsyn, Steven L. Forman, G. M. Levkovskaya, G. A. Pospelova, I. E. Kuz’mina, N. D. Burova, Paul Goldberg, Richard I. Macphail, Biagio Giaccio, N. D. Praslov, Early Upper Paleolithic in Eastern Europe and Implications for the Dispersal of Modern Humans. «Science» 12 January 2007. 
+↑ 
+Jump up to: 
+17.0 17.1 I.I. Hofmannus, Lexicon universale, tomus IV, P. cv. 
+↑ 
+Jump up to: 
+18.0 18.1 Die 26 Augusti 2008 Foederatio Russica libertatem Abasgiae et Ossetiae Meridionalis e Georgia rite agnovit. 
+Jump up 
+↑ Административно-территориальное деление по субъектам Российской Федерации на 1 января 2010 года. Росстат (14 июля 2010).xls 
+Jump up 
+↑ По данным Росреестра с сайта Росстата по состоянию на 01.01.2009 г. 
+Jump up 
+↑ По данным Федеральной службы геодезии и картографии России по состоянию на 01.01.1986 г. 
+Jump up 
+↑ Самые длинные реки России = Flumina longissima Russiae 
+Jump up 
+↑ Крупные острова России = Magnae insulae Russiae 
+Jump up 
+↑ Растительность=Vegetatio 
+Jump up 
+↑ "Население, учтённое при Всероссийской переписи населения 2010 года". Федеральная служба государственной статистики 
+Jump up 
+↑ Численность населения Российской Федерации по муниципальным образованиям на 1 января 2013 года (таблица 29-30-31-32-13) 
+↑ 
+Jump up to: 
+27.0 27.1 Российская газета. Вот какие мы — россияне. Об итогах Всероссийской переписи населения 2010 года 
+Nexus interni
+Index locorum in Russia
+Bibliographia[recensere | fontem recensere]
+Generalia
+Большая российская энциклопедия : в 30 т.. — М. : Большая российская энциклопедия, 2004. — Т. «Россия». — 1007 с. — ISBN 5-85270-326-5.
+Россия // Большая советская энциклопедия. — М., 1972. — Т. 10. — С. 539—556.
+Ullrich, Volker, ed. 2005. Russland und der Kaukasus. Fischer Weltalmanach aktuell (mit Analysen und Reportagen aus der ZEIT und Zahlen, Daten und Fakten aus dem Fischer Weltalmanach). Francofurti: Fischer Taschenbücher, Bd. 72303. ISBN 3-596-72303-5.
+Geographia et geopolitica
+Avioutskii, Viatcheslav. 2005. Géopolitique du Caucase. ISBN 2200268432.
+Brunet, Roger. 1996. La Russie et les pays proches, in Géographie Universelle t. 10 : Europes orientales, Russie, Asie centrale. Belin-Reclus. ISBN 978-2-7011-1673-0.
+Brunet, Roger. 2001. La Russie. Dictionnaire géographique. Dynamiques du territoire. Lutetiae: La Documentation française. ISBN 978-2-11-004882-0.
+Cabanne, Claude, et Elena Tchistiakova.2005. La Russie, perspectives économiques et sociales. Ed. 2a. ISBN 978-2-200-26972-2.
+Channon. 1997. Atlas historique de la Russie. Autrement; Édition : Éd rév et préf. par Marie-Hélène Mandrillon. ISBN 978-2-86260-714-6.
+Ciattoni, Annette, ed. 2007. La Russie. Sedes. ISBN 978-2-301-00000-2.
+Dréano, Bernard. 2009. Guerres et paix au Caucase: Empires, peuples et nations. Éditions Non Lieu. ISBN 978-2-35270-058-6.
+Eckert, Denis. 2005. Le Monde russe. ISBN 978-2-01-145965-7.
+Ferro, Marc, et Marie-Hélène Mandrillon. 2005. Russie, peuples et civilisations. La Découverte. ISBN 978-2-7071-4547-5.
+Giuliani, Jean-Dominique. 2007. Géoéconomie, N° 43, automne 2007: La Russie et l'Europe. Institut Choiseul pour la politique internationale et la géoéconomie. ISBN 978-2-916722-10-8.
+Marchand, Pascal. 2007a. Atlas géopolitique de la Russie: Puissance d'hier, puissance de demain. Autrement. ISBN 978-2-7467-1051-1.
+Marchand, Pascal. 2007b. Géopolitique de la Russie. Ellipse. ISBN 978-2-7298-3258-2.
+Portal, Roger. 1950. L'Oural au XVIIIe siècle : Étude d'histoire économique et sociale. Lutetiae: Institut d'études slaves.
+Radvanyi, Jean. 2008. La Nouvelle Russie. ISBN 978-2-200-35289-9.
+Radvanyi, Jean. 2010. Atlas géopolitique du Caucase: Russie, Géorgie, Arménie, Azerbaïdjan: un avenir commun possible? ISBN 978-2-246-75391-9.
+Razoux, Pierre. 2009. Histoire de la Géorgie: la clé du Caucase. Perrin. ISBN 978-2-262-02645-5.
+Rey, Violette. 1998. Les territoires centre-européens: Dilemmes et défis: L'Europe médiane en question. La Découverte. ISBN 978-2-7071-2834-8.
+Thorez, Pierre, Vladimir Kolossov, Andreï Treïvich, Yvette Vaguet, Samuel Deprez (cartographus). 2007. La Russie. Éditions Sedes. ISBN 978-2-301-00010-1.
+Vandermotten, Christian, Julien Vandeburie , Collectif, Quentin Rombaux (cartographus), et Pablo Medina Lockhart (cartographus). 2005. Territorialités et politique. Universitas Bruxellensis. ISBN 978-2-8004-1358-7.
+Werth, Nicolas. 2008. Histoire de l'Union soviétique: De l'empire russe à la communauté des États indépendants 1900-1991. Presses universitaires de France. ISBN 978-2-13-056120-0.
+Civilitas
+Kanet Roger E., ed. 2011. Russian Foreign Policy in the 21st century. Palgrave Macmillan.
+Mommsen, Margarita. 2004. Wer herrscht in Russland? Der Kreml und die Schatten der Macht. Ed. 2a. Monaci: Beck. ISBN 3-406-51118-X.
+Pleines, Heiko, et Hans-Henning Schröder, eds. 2010. Länderbericht Russland. Bonnae: Bundeszentrale für politische Bildung, Schriftenreihe (Bd. 1066).
+Stachow, D., L. Shevtsova, Roland Götz, J. Scherrer, et E.-M. Auch. 2006. Aus Politik und Zeitgeschichte: Russland, Beilage zur Wochenzeitung Das Parlament. Bonnae: Bundeszentrale für politische Bildung (13 Martii). PDF).
+Historia
+Карамзин Н. М. История государства Российского. [1], [2]
+Ключевский В. О. Курс русской истории [3], [4], [5]
+Костомаров Н. И. Русская история в жизнеописаниях её главнейших деятелей [6], [7]
+Платонов С. Ф. Полный курс лекций по русской истории [8]
+Соловьёв С. М. История России с древнейших времен [9] [10], [11]
+Schmidt, Christoph. 2009. Russische Geschichte 1547–1917. Ed. 2s. Monaci: Oldenbourg Wissenschaftsverlag. ISBN 3-486-56704-7.
+Goehrke, Carsten. 2000. Russland. Eine Strukturgeschichte. Paderborn: Schöningh Verlag. ISBN 978-3-506-76763-9. Recensio.
+Pipes, Richard. 1977. Russland vor der Revolution: Staat und Gesellschaft im Zarenreich. Monaci.
+Ascher, Abraham. 2005. Geschichte Russlands. Essen: Magnus-Verlag. ISBN 3-88400-432-8.
+Guldimann, Tim. 1984. Moral und Herrschaft in der Sowjetunion. Erlebnis und Theorie. Francofurti: Suhrkamp. ISBN 3-518-11240-6.
+Kappeler, Andreas. 2003. Russland als Vielvölkerreich: Entstehung, Geschichte, Zerfall. Ed. 2a. Monaci: Beck. ISBN 3-406-36472-1.
+Kappeler, Andreas. 2005. Russische Geschichte. Ed. 4a. Monaci: Beck. ISBN 3-406-47076-9.
+Wagensohn, Tanja. 2001. Russland nach dem Ende der Sowjetunion. Regensburg: Pustet. ISBN 3-7917-1751-0.
+Cultura et sociologia
+Figes, Orlando. 2003. Nataschas Tanz: Eine Kulturgeschichte Russlands. Berolini: Berlin Verlag. ISBN 3-8270-0487-X.
+Franz, Norbert, ed. 2002. Lexikon der russischen Kultur. Darmstadt: Primus. ISBN 3-89678-413-7.
+Goehrke, Carsten. 2003 Russischer Alltag. Turici: Chronos. ISBN 3-0340-0583-0.
+Dimitris Michalopoulos, Russia under Communism: Bulgakov, his Life and his Book, Saarbruecken: Lambert, 2014, ISBN 978-3-659-53121-7.
+Redepenning, Dorothea. 1994. Geschichte der russischen und sowjetischen Musik: Das 19. und 20. Jahrhundert in 2 Bänden. Laaber: Laaber-Verlag. ISBN 978-3-89007-206-7.
+Nexus externi[recensere | fontem recensere]
+ 
+Vicimedia Communia plura habent quae ad Russiam spectant. 
+ 
+Lege Ῥωσσία ("Russia") apud Vicipaediam lingua Graeca antiqua scriptam 
+Historiae Ruthenicae scriptores exteri saeculi XVI, tomus I.
+Russia seu Moscovia itemque Tartaria: commentario topographico atque politico illustratae
+S. Herberstein, Rerum Moscoviticarum Commentarii
+I. Hofmannus, Lexicon Universale: Moscovia, et Moschovia
+Ephemeris: Caesar unius Russiae
+Generalia
+Russia apud ucblibraries.colorado.edu (UCB Libraries GovPubs)
+Russia, apud www.bbc.co.uk (BBC News)
+Russia, apud www.britannica.com (Encyclopædia Britannica)
+Россия (Russia), apud bigenc.ru (Encyclopaedia Russica Magna)
+Administratio
+Situs publicus administrationis Russiae, www.gov.ru
+"Chief of State and Cabinet Members," www.cia.gov
+Russian News Agency "Ria Novosti," en.rian.ru
+Vox Russiae, english.ruvr.ru
+Miscellanea
+Post-Soviet Problems from the Dean Peter Krogh Foreign Affairs Digital Archives, repository.library.georgetown.edu
+"Russia Beyond the Headlines," rbth.ru
+"Way to Russia: An Introduction to Russia and Russian People," www.waytorussia.net
+Urbes et regiones Russicae, russiatrek.org
+"Official Russia Travel Guide," www.russia-travel.com
+Consulatus Russicus, russianconsulate.com
+"Moscow Russia Insider's Guide," www.moscow-russia-insiders-guide.com
